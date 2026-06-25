@@ -1,12 +1,12 @@
 # Datenanalyse Kreditportfolio — Risikoklassifikation in MySQL
 
-> **English summary:** SQL-based analysis of a consumer credit portfolio (32,581 records, 12 columns) to uncover lending deficiencies and classify borrowers into three risk groups. Final project for IHK Data Analyst certification at DataSmart Point. All findings derived purely from MySQL queries; visualizations support presentation only.
+> SQL-basierte Analyse eines Konsumentenkredit-Portfolios (32.581 Datensätze, 12 Spalten) zur Aufdeckung von Missständen in der Kreditvergabe und zur Klassifikation der Kreditnehmer in drei Risikogruppen. Abschlussprojekt für die IHK-Weiterbildung Data Analyst bei DataSmart Point. Alle Erkenntnisse stammen direkt aus MySQL-Abfragen; Visualisierungen dienen ausschließlich der Präsentationsunterstützung.
 
 ---
 
 ## Projektüberblick
 
-Dieses Projekt ist eine Projektarbeit für das Modul **Datenbanken und SQL** im Rahmen der IHK-Weiterbildung Data Analyst bei DataSmart Point (Juni 2026).
+Das ist eine Projektarbeit für das Modul **Datenbanken und SQL** im Rahmen der IHK-Weiterbildung Data Analyst bei DataSmart Point (Juni 2026).
 
 Auftrag eines fiktiven Finanzdienstleisters: Ein Bereichsvorstand vermutet Probleme in der bisherigen Kreditvergabe und benötigt eine datenbasierte Analyse, um die Kreditüberwachung zu verbessern. Auf Grundlage eines Datensatzes von 32.581 Konsumentenkrediten wurden zwei Pflichtaufgaben bearbeitet:
 

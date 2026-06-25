@@ -108,10 +108,12 @@ Drei konkrete Maßnahmen wurden auf Basis der Analyse abgeleitet:
 
 ## Dateien im Repository
 
+## Dateien im Repository
+
 | Datei | Inhalt |
 |---|---|
-| `sql_skript.sql` | Vollständig kommentiertes SQL-Skript mit allen 29 Abfragen |
-| `praesentation.pdf` | 10-Slide-Präsentation mit Befunden und Handlungsempfehlungen |
+| `kreditportfolio_analyse.sql` | Vollständig kommentiertes SQL-Skript mit allen 29 Abfragen |
+| `Projektarbeit_Roman_Rosenberger_Juni_2026.pdf` | 10-Slide-Präsentation mit Befunden und Handlungsempfehlungen |
 | `README.md` | Diese Datei |
 
 ---
